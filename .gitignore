@@ -1,0 +1,24 @@
+﻿# Excel temporary / lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+*.tmp
+
+# Large compressed archives (>100MB / redundant)
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
