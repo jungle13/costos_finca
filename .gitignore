@@ -1,8 +1,10 @@
-﻿# Excel temporary / lock files
+# Excel temporary / lock files
 ~$*.xlsx
 ~$*.xls
 ~$*.xlsm
 *.tmp
+*_BACKUP.xlsx
+*_BAK*.xlsx
 
 # Large compressed archives (>100MB / redundant)
 *.rar
